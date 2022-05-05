@@ -1,0 +1,15 @@
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.csproj.AssemblyReference.cache
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.AssemblyInfoInputs.cache
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.AssemblyInfo.cs
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.csproj.CoreCompileInputs.cache
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\bin\Debug\net6.0\STPAR.exe
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\bin\Debug\net6.0\STPAR.deps.json
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\bin\Debug\net6.0\STPAR.runtimeconfig.json
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\bin\Debug\net6.0\STPAR.dll
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\bin\Debug\net6.0\STPAR.pdb
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.dll
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\refint\STPAR.dll
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.pdb
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\STPAR.genruntimeconfig.cache
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\STPAR\obj\Debug\net6.0\ref\STPAR.dll

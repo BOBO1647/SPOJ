@@ -1,0 +1,15 @@
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\bin\Debug\net6.0\ALIEN.exe
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\ALIEN\bin\Debug\net6.0\ALIEN.deps.json
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\ALIEN\bin\Debug\net6.0\ALIEN.runtimeconfig.json
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\bin\Debug\net6.0\ALIEN.dll
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\bin\Debug\net6.0\ALIEN.pdb
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.csproj.AssemblyReference.cache
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.AssemblyInfoInputs.cache
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.AssemblyInfo.cs
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.csproj.CoreCompileInputs.cache
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.dll
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\refint\ALIEN.dll
+C:\Users\bucio\source\repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.pdb
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ALIEN.genruntimeconfig.cache
+C:\Users\bucio\Source\Repos\BOBO1647\SPOJ\SPOJ\ALIEN\obj\Debug\net6.0\ref\ALIEN.dll
