@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\bucio\Desktop\Borowy Dawid HASHIT.cs" Link="Borowy Dawid HASHIT.cs" />
-  </ItemGroup>
-
 </Project>

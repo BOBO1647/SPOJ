@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\HASHIT\\HASHIT.csproj": {}
+    "C:\\Users\\bucio\\source\\repos\\BOBO1647\\SPOJ\\SPOJ\\ONP\\ONP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\HASHIT\\HASHIT.csproj": {
+    "C:\\Users\\bucio\\source\\repos\\BOBO1647\\SPOJ\\SPOJ\\ONP\\ONP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\HASHIT\\HASHIT.csproj",
-        "projectName": "HASHIT",
-        "projectPath": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\HASHIT\\HASHIT.csproj",
+        "projectUniqueName": "C:\\Users\\bucio\\source\\repos\\BOBO1647\\SPOJ\\SPOJ\\ONP\\ONP.csproj",
+        "projectName": "ONP",
+        "projectPath": "C:\\Users\\bucio\\source\\repos\\BOBO1647\\SPOJ\\SPOJ\\ONP\\ONP.csproj",
         "packagesPath": "C:\\Users\\bucio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\HASHIT\\obj\\",
+        "outputPath": "C:\\Users\\bucio\\source\\repos\\BOBO1647\\SPOJ\\SPOJ\\ONP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
