@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bucio\\source\\repos\\Nauka_1\\Nauka_1\\SPOJ\\STPAR\\STPAR.csproj": {}
+    "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\STPAR\\STPAR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bucio\\source\\repos\\Nauka_1\\Nauka_1\\SPOJ\\STPAR\\STPAR.csproj": {
+    "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\STPAR\\STPAR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bucio\\source\\repos\\Nauka_1\\Nauka_1\\SPOJ\\STPAR\\STPAR.csproj",
+        "projectUniqueName": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\STPAR\\STPAR.csproj",
         "projectName": "STPAR",
-        "projectPath": "C:\\Users\\bucio\\source\\repos\\Nauka_1\\Nauka_1\\SPOJ\\STPAR\\STPAR.csproj",
+        "projectPath": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\STPAR\\STPAR.csproj",
         "packagesPath": "C:\\Users\\bucio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bucio\\source\\repos\\Nauka_1\\Nauka_1\\SPOJ\\STPAR\\obj\\",
+        "outputPath": "C:\\Users\\bucio\\Source\\Repos\\BOBO1647\\SPOJ\\SPOJ\\STPAR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
