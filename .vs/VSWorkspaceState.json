@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SPOJ"
+    "\\SPOJ",
+    "\\SPOJ\\STPAR"
   ],
-  "SelectedNode": "\\SPOJ\\SPOJ.sln",
+  "SelectedNode": "\\SPOJ\\STPAR\\STPAR.csproj",
   "PreviewInSolutionExplorer": false
 }
